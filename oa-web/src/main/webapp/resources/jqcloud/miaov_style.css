@@ -1,0 +1,6 @@
+#div1 {position:relative; width:750px; height:750px; margin: 20px auto 0; }
+#div1 a {position:absolute; top:0px; left:0px; font-family:"幼圆"; color:#fff; font-weight:bold; text-decoration:none; padding: 3px 6px; }
+#div1 a:hover {border: 1px solid #eee;  }
+#div1 .blue {color:blue;}
+#div1 .red {color:red;}
+#div1 .yellow {color:yellow;}

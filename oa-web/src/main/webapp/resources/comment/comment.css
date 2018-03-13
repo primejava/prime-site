@@ -1,0 +1,7 @@
+.show-comment{display:none;position:fixed;z-index:999;background:white;width:400px;height:200px;border:#ccc 1px solid;}
+.show-comment ul{overflow: auto;width:400px;height:170px;}
+.show-comment li{float:left;line-height: 30px;border-bottom: #ccc 1px dotted;text-align: 10px;width: 100%;padding:0px !important;}
+.show-comment li .time{display: block;width: 120px;float: right;}
+.show-comment li .context{display: block;float: left;text-indent: 10px;}
+.show-comment .top{border-bottom:#ccc 1px solid;height:30px;}
+.show-comment .close{float:right;height:30px;line-height:30px;padding-right:15px;padding-left:15px;cursor:pointer;}

@@ -1,0 +1,52 @@
+[2016-05-21 12:07:46,446 INFO DocConverterUtil.java:getConnection:182] ---- >>>>>>连接OpenOffice服务...
+[2016-05-21 12:07:46,454 DEBUG AbstractOpenOfficeConnection.java:connect:59] ---- connecting
+[2016-05-21 12:07:46,546 INFO AbstractOpenOfficeConnection.java:connect:77] ---- connected
+[2016-05-21 12:07:46,548 INFO DocConverterUtil.java:getConnection:188] ---- >>>>>>连接OpenOffice服务成功！
+[2016-05-21 12:07:46,549 INFO DocConverterUtil.java:officeToPdf:234] ---- >>>>>>office源文件路径：C:/Users/liguo/Desktop/FlexPaper+swfTools仿文档在线阅读.docx
+[2016-05-21 12:07:46,549 INFO DocConverterUtil.java:officeToPdf:247] ---- >>>>>>pdf目标文件路径：C:/Users/liguo/Desktop/FlexPaper+swfTools仿文档在线阅读.docx.pdf
+[2016-05-21 12:07:46,550 INFO DocConverterUtil.java:officeToPdf:263] ---- >>>>>>开始转换...
+[2016-05-21 12:07:47,733 INFO DocConverterUtil.java:officeToPdf:288] ---- >>>>>>转换成功！
+[2016-05-21 12:07:47,733 DEBUG AbstractOpenOfficeConnection.java:disconnect:86] ---- disconnecting
+[2016-05-21 12:07:47,734 INFO AbstractOpenOfficeConnection.java:disposing:98] ---- disconnected
+[2016-05-21 12:07:47,735 INFO PropertiesConfigUtil.java:getFileRealPath:39] ---- >>>>>>开始根据相对路径[config/docService.properties]获取该配置文件的真实物理路径...
+[2016-05-21 12:07:47,736 INFO PropertiesConfigUtil.java:getFileRealPath:45] ---- >>>>>>成功获取配置文件真实物理路径：[/D:/newWorkSpace/cms-parent/oa-web/target/classes/config/docService.properties]！
+[2016-05-21 12:07:47,736 ERROR PropertiesConfigUtil.java:getPropertiesConfigByResourceRealPath:70] ---- >>>>>>开始加载配置文件：[/D:/newWorkSpace/cms-parent/oa-web/target/classes/config/docService.properties]！
+[2016-05-21 12:07:47,742 INFO PropertiesConfigUtil.java:getPropertiesConfigByResourceRealPath:87] ---- 
+
+>>>>>>配置文件配置项输出：
+		windows_openoffice_home = C:\Program Files (x86)\OpenOffice 4\
+		windows_swftools_home = D:\SWFTools\
+
+
+
+[2016-05-21 12:07:47,743 INFO DocConverterUtil.java:pdfToSwf:333] ---- >>>>>>pdf源文件路径：C:/Users/liguo/Desktop/FlexPaper+swfTools仿文档在线阅读.docx.pdf
+[2016-05-21 12:07:47,743 INFO DocConverterUtil.java:pdfToSwf:348] ---- >>>>>>swf目标文件了路径：C:/Users/liguo/Desktop/FlexPaper+swfTools仿文档在线阅读.docx.pdf.swf
+[2016-05-21 12:07:47,744 INFO DocConverterUtil.java:pdfToSwf:366] ---- >>>>>>>pdf2swf_command："D:\SWFTools\pdf2swf.exe" -t "C:\Users\liguo\Desktop\FlexPaper+swfTools仿文档在线阅读.docx.pdf" -s flashversion=9 -o "C:\Users\liguo\Desktop\FlexPaper+swfTools仿文档在线阅读.docx.pdf.swf"
+[2016-05-21 12:07:48,215 INFO DocConverterUtil.java:outProcessErrorMsg:418] ---- 
+[2016-05-21 12:07:48,216 INFO DocConverterUtil.java:pdfToSwf:392] ---- >>>>>>>pdf convert to pdf success!
+[2016-05-21 12:21:36,505 INFO DocConverterUtil.java:getConnection:182] ---- >>>>>>连接OpenOffice服务...
+[2016-05-21 12:21:36,513 DEBUG AbstractOpenOfficeConnection.java:connect:59] ---- connecting
+[2016-05-21 12:21:36,624 INFO AbstractOpenOfficeConnection.java:connect:77] ---- connected
+[2016-05-21 12:21:36,627 INFO DocConverterUtil.java:getConnection:188] ---- >>>>>>连接OpenOffice服务成功！
+[2016-05-21 12:21:36,627 INFO DocConverterUtil.java:officeToPdf:234] ---- >>>>>>office源文件路径：C:/Users/liguo/Desktop/FlexPaper+swfTools仿文档在线阅读.docx
+[2016-05-21 12:21:36,627 INFO DocConverterUtil.java:officeToPdf:247] ---- >>>>>>pdf目标文件路径：C:/Users/liguo/Desktop/FlexPaper+swfTools仿文档在线阅读.docx.pdf
+[2016-05-21 12:21:36,628 INFO DocConverterUtil.java:officeToPdf:263] ---- >>>>>>开始转换...
+[2016-05-21 12:21:37,822 INFO DocConverterUtil.java:officeToPdf:288] ---- >>>>>>转换成功！
+[2016-05-21 12:21:37,822 DEBUG AbstractOpenOfficeConnection.java:disconnect:86] ---- disconnecting
+[2016-05-21 12:21:37,823 INFO AbstractOpenOfficeConnection.java:disposing:98] ---- disconnected
+[2016-05-21 12:21:37,824 INFO PropertiesConfigUtil.java:getFileRealPath:39] ---- >>>>>>开始根据相对路径[config/docService.properties]获取该配置文件的真实物理路径...
+[2016-05-21 12:21:37,825 INFO PropertiesConfigUtil.java:getFileRealPath:45] ---- >>>>>>成功获取配置文件真实物理路径：[/D:/newWorkSpace/cms-parent/oa-web/target/classes/config/docService.properties]！
+[2016-05-21 12:21:37,825 ERROR PropertiesConfigUtil.java:getPropertiesConfigByResourceRealPath:70] ---- >>>>>>开始加载配置文件：[/D:/newWorkSpace/cms-parent/oa-web/target/classes/config/docService.properties]！
+[2016-05-21 12:21:37,833 INFO PropertiesConfigUtil.java:getPropertiesConfigByResourceRealPath:87] ---- 
+
+>>>>>>配置文件配置项输出：
+		windows_openoffice_home = C:\Program Files (x86)\OpenOffice 4\
+		windows_swftools_home = D:\SWFTools\
+
+
+
+[2016-05-21 12:21:37,833 INFO DocConverterUtil.java:pdfToSwf:333] ---- >>>>>>pdf源文件路径：C:/Users/liguo/Desktop/FlexPaper+swfTools仿文档在线阅读.docx.pdf
+[2016-05-21 12:21:37,833 INFO DocConverterUtil.java:pdfToSwf:348] ---- >>>>>>swf目标文件了路径：C:/Users/liguo/Desktop/FlexPaper+swfTools仿文档在线阅读.docx.pdf.swf
+[2016-05-21 12:21:37,834 INFO DocConverterUtil.java:pdfToSwf:366] ---- >>>>>>>pdf2swf_command："D:\SWFTools\pdf2swf.exe" -t "C:\Users\liguo\Desktop\FlexPaper+swfTools仿文档在线阅读.docx.pdf" -s flashversion=9 -o "C:\Users\liguo\Desktop\FlexPaper+swfTools仿文档在线阅读.docx.pdf.swf"
+[2016-05-21 12:21:38,294 INFO DocConverterUtil.java:outProcessErrorMsg:418] ---- 
+[2016-05-21 12:21:38,294 INFO DocConverterUtil.java:pdfToSwf:392] ---- >>>>>>>pdf convert to pdf success!
